@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cost_of_service" type="id" />
+    <item name="service_question" type="id" />
+    <item name="tip_options" type="id" />
+    <item name="option_twenty_percent" type="id" />
+    <item name="option_eighteen_percent" type="id" />
+    <item name="option_fifteen_percent" type="id" />
+    <item name="round_up_switch" type="id" />
+    <item name="calculate_button" type="id" />
+    <item name="tip_result" type="id" />
+</resources>

@@ -8,4 +8,10 @@
     <string name="calculate_button">Calculate</string>
     <string name="tip_result">Tip Amount: %s</string>
     <string name="round_up_switch">Round up tip?</string>
+
+    <!--    themes -->
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
 </resources>
