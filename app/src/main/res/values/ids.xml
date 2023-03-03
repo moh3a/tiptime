@@ -9,4 +9,5 @@
     <item name="round_up_switch" type="id" />
     <item name="calculate_button" type="id" />
     <item name="tip_result" type="id" />
+    <item name="cost_of_service_edit_text" type="id" />
 </resources>
